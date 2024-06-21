@@ -250,7 +250,7 @@ However, to build the installer you have to install [Wix Toolset manually](http:
 ## cloning the GIT repository:
 
 ```
-git clone --recurse-submodules https://github.com:shuiyuea/DebugViewPP.git
+git clone --recurse-submodules https://github.com/shuiyuea/DebugViewPP.git
 ```
 
 (don't forget to include --recurse-submodules, otherwise you will get an error message saying docopt.h is missing.)
